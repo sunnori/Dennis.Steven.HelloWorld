@@ -3,3 +3,11 @@
 ################################################################################
 
 /Dennis.Steven.HelloWorld.Console/bin/Debug
+/Dennis.Steven.HelloWorld.Console/obj/Debug
+/Dennis.Steven.HelloWorld.Data/bin/Debug
+/Dennis.Steven.HelloWorld.Data/obj/Debug
+/Dennis.Steven.HelloWorld.Service/bin/Debug
+/Dennis.Steven.HelloWorld.Service/obj/Debug
+/Dennis.Steven.HelloWorld.Service.Tests/bin/Debug
+/Dennis.Steven.HelloWorld.Service.Tests/obj/Debug
+/packages
